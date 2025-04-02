@@ -1,0 +1,93 @@
+F00xx Housing
+F02xx Office
+F03xx Commercial
+F04xx Health Care
+F05xx Education
+F07xx Public Safety
+F08xx Amusement & Recreation
+F09xx Transportation
+F11xx Power
+F12xx Highway & Street
+F15xx Conservation & Development
+N0211 Administration Building
+N0215 Data Center
+N0311 Auto Dealer
+N0312 Auto Parts
+N0313 Parking Garage/Lot
+N0321 Bakery
+N0322 Liquor/Beer Store
+N0331 General Merchandise (Department Store)
+N0332 Shopping Plaza/Shopping Center/Town Center
+N0333 Shopping Mall
+N0341 Electric/Computer
+N0345 Drug Store
+N0348 Hardware Store
+N0351 Commercial Warehouse
+N0531 College/University
+N0535 Dormitory
+N0538 Sport/Recreational Facility
+N0554 Art Gallery-Noncommercial
+N0624 Camps & Retreats
+S002x Multifamily
+S02xx Office
+S0313 Parking Garage/Lot
+S041x Hospital
+S042x Medical Building
+S0521 Elementary School
+S0522 Junior High
+S0523 High School
+S0531 College/University
+S0535 Dormitory
+S0538 Sport/Recreational Facility
+S0539 (Power Plants, Water, Sewage, Etc.)
+S0553 Archive
+S0711 Jail
+S0712 Police/Sheriff Station
+S0721 Fire Station
+S082x Athletic Facilities
+S0844 Convention/Trade Center or Exhibition Hall
+S0852 Community Center/Senior Citizen Complex
+S086x Park & Camps
+S0911 Passenger Terminal-Air
+S0912 Airport Paving, Runway
+S0921 Bus Passenger Terminal
+S0923 Light Rail
+S093x Water
+S11xx Power
+S1213 Lighting System-Street/Highway
+S1216 Bridges
+S1219 Rest Facilities/Travel Centers/Comfort Stations
+S12cc Pavement Lighting
+S1312 Dry/Solid Waste Disposal
+S1321 Waste Water Treatment/Disposal Plant
+S1322 Water Collection Systems- Nonpotable Water
+S13cc Waste Systems
+S1411 Filtration Plant
+S1413 Culvert-Water Supply
+S1521 Dam-Nonpower/Weir
+S1522 Breakwater
+V01xx Hotel & Motel
+V02cc Financial Office
+V041x Hospital
+V042x Medical Building
+V043x Special Care
+V051x Preschool
+V052x Primary & Secondary
+V061x House of Worship
+V082x Athletic Facilities
+V083x Fitness/Workout Facilities
+V084x Arts
+V085x Social Places
+V087x Studios
+V091x Air
+V092x Land
+V10xx Telecommunication
+V111x Electrical
+V20cc Tobacco/Textile Plant
+V28xx Chemical & Allied Plant
+V30xx Rubber/Plastics Plant
+V32xx Stone/Clay/Glass Plant
+V37xx Transportation Plant
+V38cc Manufacturing Plants
+X0011 Single Family - New
+X0021 Multifamily - New
